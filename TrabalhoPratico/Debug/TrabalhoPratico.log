@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\ipt\3ºano\eda\trabalhopratico\trabalhopratico\tree.h(111): warning C4018: '<': signed/unsigned mismatch
+d:\ipt\3ºano\eda\trabalhopratico\trabalhopratico\tree.h(233): warning C4018: '<': signed/unsigned mismatch
+d:\ipt\3ºano\eda\trabalhopratico\trabalhopratico\huffman.h(106): warning C4018: '<': signed/unsigned mismatch
+d:\ipt\3ºano\eda\trabalhopratico\trabalhopratico\huffman.h(96): warning C4101: 'i': unreferenced local variable
+d:\ipt\3ºano\eda\trabalhopratico\trabalhopratico\main.cpp(14): warning C4091: 'extern ': ignored on left of 'int' when no variable is declared
+  TrabalhoPratico.vcxproj -> D:\IPT\3ºAno\EDA\TrabalhoPratico\Debug\TrabalhoPratico.exe
+  TrabalhoPratico.vcxproj -> D:\IPT\3ºAno\EDA\TrabalhoPratico\Debug\TrabalhoPratico.pdb (Partial PDB)
